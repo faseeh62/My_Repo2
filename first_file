@@ -1,3 +1,4 @@
+cout<<"In this code you'll find my name, my roll number, my FSC subjects, my 1st semester subjects and my 2nd semester subjects."<<endl;
 cout<<"My name is : "<<"Faseeh Ul Hassan"<<endl;
 cout<<"My roll number is : "<<"23-st-019"<<endl;
 cout<<"My FSC subjects are : "<<endl;
